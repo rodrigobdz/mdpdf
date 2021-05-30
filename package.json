@@ -43,7 +43,7 @@
     "loophole": "^1.1.0",
     "meow": "^8.0.0",
     "prettier": "^1.15.3",
-    "puppeteer": "git@github.com:rodrigobdz/puppeteer.git",
+    "puppeteer": "git@github.com:rodrigobdz/puppeteer.git#patch-1",
     "showdown": "^1.9.1",
     "showdown-emoji": "^1.0.3",
     "showdown-highlight": "^2.1.3"
